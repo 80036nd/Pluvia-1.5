@@ -17,3 +17,4 @@ chmod +x ./tools/ipwndfu/ipwndfu
 chmod +x ./tools/ipwndfu/ipwnrecovery
 chmod +x ./tools/idevicerestore
 ./restore.sh ~/Downloads/iPhone3,1_5.1.1_9B206_Restore_Patched.ipsw
+killall Terminal
